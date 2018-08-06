@@ -1,0 +1,85 @@
+1. Population (female) age 6+ years who ever attended school (%) 84.28333333333335
+2. Population below age 15 years (%) 22.883333333333336
+3. Sex ratio of the total population (females per 1000 males) 1020.8333333333334
+4. Sex ratio at birth for children born in the last five years (females per 1000 males) 1008.1666666666666
+5. Children under age 5 years whose birth was registered (%) 98.86666666666666
+6. Households with electricity (%) 99.83333333333333
+7. Households with an improved drinking-water source1 (%) 95.91666666666667
+8. Households using improved sanitation facility2 (%) 78.46666666666668
+9. Households using clean fuel for cooking3 (%) 82.68333333333334
+10. Households using iodized salt (%) 95.53333333333335
+11. Households with any usual member covered by a health scheme or health insurance (%) 14.133333333333333
+12. Women who are literate (%) 88.75
+13. Men who are literate (%) 95.10000000000001
+14. Women with 10 or more years of schooling (%) 57.349999999999994
+15. Women age 20-24 years married before age 18 years (%) 9.05
+16. Men age 25-29 years married before age 21 years (%) 7.366666666666667
+17. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%) 2.9166666666666665
+18. Any method (%) 25.63333333333333
+19. Any modern method (%) 23.816666666666666
+20. Female sterilization (%) 15.816666666666668
+21. Male sterilization (%) 0.0
+22. IUD/PPIUD (%) 0.9166666666666666
+23. Pill (%) 0.26666666666666666
+24. Condom (%) 6.633333333333333
+25. Total unmet need (%) 17.416666666666668
+26. Unmet need for spacing (%) 8.066666666666666
+27. Health worker ever talked to female non-users about family planning5 (%) 41.949999999999996
+28. Current users ever told about side effects of current method (%) 66.8
+29. Mothers who had antenatal check-up in the first trimester (%) 82.33333333333333
+30. Mothers who had at least 4 antenatal care visits (%) 87.23333333333333
+31. Mothers whose last birth was protected against neonatal tetanus6 (%) 94.89999999999999
+32. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%) 61.98333333333333
+33. Mothers who had full antenatal care7 (%) 57.9
+34. Registered pregnancies for which the mother received Mother and Child Protection (MCP) card (%) 95.5
+35. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%) 91.18333333333334
+36. Mothers who received financial assistance under Janani Suraksha Yojana (JSY) for births delivered in an institution (%) 7.383333333333334
+37. Average out of pocket expenditure per delivery in public health facility (Rs.) 4406.0
+39. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%) 43.71666666666667
+40. Institutional births (%) 96.83333333333333
+41. Institutional births in public facility (%) 58.25
+42. Home delivery conducted by skilled health personnel (out of total deliveries) (%) 1.5833333333333333
+43. Births assisted by a doctor/nurse/LHV/ANM/other health personnel (%) 97.21666666666665
+44. Births delivered by caesarean section (%) 30.76666666666667
+45. Births in a private health facility delivered by caesarean section (%) 50.25
+46. Births in a public health facility delivered by caesarean section (%) 19.533333333333335
+47. Children age 12-23 months fully immunized (BCG measles and 3 doses each of polio/DPT) (%) 88.96666666666665
+48. Children age 12-23 months who have received BCG (%) 100.0
+49. Children age 12-23 months who have received 3 doses of polio vaccine (%) 94.06666666666666
+50. Children age 12-23 months who have received 3 doses of DPT vaccine (%) 94.03333333333335
+51. Children age 12-23 months who have received measles vaccine (%) 97.56666666666668
+52. Children age 12-23 months who have received 3 doses of Hepatitis B vaccine (%) 86.76666666666667
+53. Children age 9-59 months who received a vitamin A dose in last 6 months (%) 89.14999999999999
+54. Children age 12-23 months who received most of the vaccinations in public health facility (%) 77.73333333333333
+55. Children age 12-23 months who received most of the vaccinations in private health facility (%) 22.3
+56. Prevalence of diarrhoea (reported) in the last 2 weeks preceding the survey (%) 3.566666666666667
+60. Prevalence of symptoms of acute respiratory infection (ARI) in the last 2 weeks preceding the survey (%) 1.5666666666666667
+61. Children with fever or symptoms of ARI in the last 2 weeks preceding the survey taken to a health facility (%) 88.6
+62. Children under age 3 years breastfed within one hour of birth8 (%) 71.21666666666665
+65. Breastfeeding children age 6-23 months receiving an adequate diet9 10 (%) 8.733333333333333
+67. Total children age 6-23 months receiving an adequate diet9 10 (%) 10.316666666666665
+68. Children under 5 years who are stunted11 (%) 20.26666666666667
+69. Children under 5 years who are wasted11 (%) 21.1
+70. Children under 5 years who are severely wasted12 (%) 8.783333333333333
+71. Children under 5 years who are underweight11 (%) 23.383333333333336
+72. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%) 15.450000000000003
+73. Men whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%) 11.183333333333332
+74. Women who are overweight or obese (BMI >=25.0 kg/m2) (%) 32.583333333333336
+75. Men who are overweight or obese (BMI >=25.0 kg/m2) (%) 31.916666666666668
+76. Children age 6-59 months who are anaemic (<11.0 g/dl) (%) 47.26666666666667
+77. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl) (%) 31.11666666666667
+79. All women age 15-49 years who are anaemic (%) 31.05
+80. Men age 15-49 years who are anaemic (<13.0 g/dl) (%) 10.35
+81. Blood sugar level - high (>140 mg/dl) (%) 8.983333333333334
+82. Blood sugar level - very high (>160 mg/dl) (%) 5.283333333333334
+83. Blood sugar level - high (>140 mg/dl) (%) 12.666666666666666
+84. Blood sugar level - very high (>160 mg/dl) (%) 7.633333333333333
+85. Slightly above normal (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%) 6.383333333333333
+86. Moderately high (Systolic 160-179 mm of Hg and/or Diastolic 100-109 mm of Hg) (%) 1.4833333333333332
+87. Very high (Systolic ?180 mm of Hg and/or Diastolic ?110 mm of Hg) (%) 0.6666666666666666
+88. Slightly above normal (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%) 10.866666666666667
+89. Moderately high (Systolic 160-179 mm of Hg and/or Diastolic 100-109 mm of Hg) (%) 2.7166666666666663
+90. Very high (Systolic ?180 mm of Hg and/or Diastolic ?110 mm of Hg) (%) 0.05000000000000001
+91. Cervix (%) 47.300000000000004
+92. Breast (%) 41.900000000000006
+93. Oral cavity (%) 49.50000000000001
