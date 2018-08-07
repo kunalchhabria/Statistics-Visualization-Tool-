@@ -21,7 +21,7 @@ go to   index->ans->try1.py/try2.py.
 Sample snapshots below.
 
 1.) The inputs given to the python program for generating graphs:
-
+![alt text](stats tool pics/1.png?raw=true "1")
  
  
 2.) The obtained graphs:
