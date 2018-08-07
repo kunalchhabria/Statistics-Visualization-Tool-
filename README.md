@@ -21,21 +21,20 @@ go to   index->ans->try1.py/try2.py.
 Sample snapshots below.
 
 1.) The inputs given to the python program for generating graphs:
-![alt text](stats tool pics/1.png?raw=true "1")
- 
+![Alt text](https://github.com/kunalchhabria/Statistics-Visualization-Tool-/blob/master/stats%20tool%20pics/1.png "1")  
  
 2.) The obtained graphs:
-
+![Alt text](https://github.com/kunalchhabria/Statistics-Visualization-Tool-/blob/master/stats%20tool%20pics/2.png "2")
  
 
 This graph compares the ""blood sugar level" of six states and makes it very easy to compare the levels for the different states. This can make it easy to formulate state-specific action plans to tackle blood sugar level with the highest attention being given to Gujarat and Haryana.
-
+![Alt text](https://github.com/kunalchhabria/Statistics-Visualization-Tool-/blob/master/stats%20tool%20pics/3.png "3")
  
 
 This graph compares the values of five different attributes for one particular state i.e. Gujarat. This can be utilized to track the changes in these levels and also to make decisions about which sector requires changes or modifications.
-
+![Alt text](https://github.com/kunalchhabria/Statistics-Visualization-Tool-/blob/master/stats%20tool%20pics/4.png "4")
  
 
 This graph compares six attributes for the state of Jammu and Kashmir. All the sectors or fields of concern that need to be compared or analyzed can be selected and their percentage levels can be compared using this type of graph.
-
+![Alt text](https://github.com/kunalchhabria/Statistics-Visualization-Tool-/blob/master/stats%20tool%20pics/5.png "5")
 
